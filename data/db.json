@@ -1,0 +1,100 @@
+{
+    "workouts": [
+        {
+        "id": 1,
+        "muscle group": "chest",
+        "exercise": "Dumbbell Press",
+        "image_url": "https://thumbs.dreamstime.com/z/exercising-dumbbell-bench-press-lying-second-embodiment-bodybuilding-target-muscles-marked-red-initial-final-steps-43826108.jpg"
+        },
+        {
+        "id": 2,
+        "muscle group": "chest",
+        "exercise": "Chest Fly",
+        "image_url": "https://i1.wp.com/www.fitliferegime.com/wp-content/uploads/2021/05/Powtoon_Screenshot23.jpg?w=660&ssl=1"   
+        },
+        {
+        "id": 3,
+        "muscle group": "chest",
+        "exercise": "Push-Up",
+        "image_url":"https://i.pinimg.com/originals/28/54/03/285403222aa50adffa452360e1818da0.png"
+        },
+        {
+        "id": 4,
+        "muscle group": "chest",
+        "exercise": "Underhand Chest Fly",
+        "image_url": "https://weighteasyloss.com/wp-content/uploads/2018/06/low-cable-cross-over.jpg"
+        },
+        {
+        "id": 5,
+        "muscle group": "tricep",
+        "exercise": "Tricep Extension",
+        "image_url": "https://weighttraining.guide/wp-content/uploads/2018/02/Incline-dumbbell-triceps-extension-resized.png"
+        },
+        {
+        "id": 6,
+        "muscle group": "tricep",
+        "exercise": "Tricep Pulldown",
+        "image_url": "http://cdn.shopify.com/s/files/1/0250/0362/2496/articles/5de7af82dd80e669098c020a_tricep-pushdown-anabolic-aliens.jpg?v=1644989036"
+        },
+        {
+        "id": 7,
+        "muscle group": "tricep",
+        "exercise": "Skull-Crushers",
+        "image_url": "https://fitnessvolt.com/wp-content/uploads/2018/04/decline-skull-crusher-750x474.jpg"
+        },
+        {
+        "id": 8,
+        "muscle group": "tricep",
+        "exercise": "Bench Dips",
+        "image_url": "https://fitnessvolt.com/wp-content/uploads/2018/04/bent-knee-bench-dip-2-750x474.jpg"   
+        },
+        {
+        "id": 9,
+        "muscle group": "bicep",
+        "exercise": "Bicep Curl",
+        "image_url": "https://fitnessvolt.com/wp-content/uploads/2019/04/dumbbell-curl-750x474.jpg"
+        },
+        {
+        "id": 10,
+        "muscle group": "bicep",
+        "exercise": "Hammer Curl",
+        "image_url": "https://fitnessvolt.com/wp-content/uploads/2018/04/dumbbell-cross-body-hammer-curl-750x474.jpg"
+        },
+        {
+        "id": 11,
+        "muscle group": "bicep",
+        "exercise": "Preacher Curl",
+        "image_url": "https://weighttraining.guide/wp-content/uploads/2017/03/Dumbbell-Preacher-Reverse-Curl-resized.png"
+        },
+        {
+        "id": 12,
+        "muscle group": "bicep",
+        "exercise": "Overhand Cable Pull",
+        "image_url": "https://fitnessvolt.com/wp-content/uploads/2019/04/overhead-cable-curl.jpg"
+        },
+        {
+        "id": 13,
+        "muscle group": "back",
+        "exercise": "Dumbbell Row",
+        "image_url": "https://fitnessvolt.com/wp-content/uploads/2018/04/bent-over-two-arm-dumbbell-row-1.jpg"
+        },
+        {
+        "id": 14,
+        "muscle group": "back",
+        "exercise": "Lat Pulldown",
+        "image_url": "https://cdn.shopify.com/s/files/1/1075/8446/files/exercise-33.jpg?1951"
+        },
+        {
+        "id": 15,
+        "muscle group": "back",
+        "exercise": "Back Extension",
+        "image_url": "https://weighttraining.guide/wp-content/uploads/2017/01/Machine-Back-Extension-resized.png"    
+        },
+        {
+        "id": 16,
+        "muscle group": "back",
+        "exercise": "Barbell Row",
+        "image_url": "https://fitnessvolt.com/wp-content/uploads/2018/04/bent-over-barbell-row-750x474.jpg"
+        }
+    ]
+}
