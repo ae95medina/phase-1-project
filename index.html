@@ -4,10 +4,28 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="index.js"></script>
-    <title>Document</title>
+    <script src="javascripts/index.js"></script>
+    <link rel="stylesheet" type="text/css" href="stylesheets/style.css"/>
+    <title>Phase 1 Project</title>
 </head>
 <body>
-    
+    <h1>Daily Workout Planner</h1>
+    <h2>What Would You Like To Work Out Today?</h2>
+    <h3>Fill out the form below based on your workout preferences and 
+        the generator will put together a workout plan just for you!
+    </h3>
+
+<form action="/action_page.php">
+  <label for="muscle-group">Muscle Group:</label><br>
+  <input type="text" id="muscle-group" name="muscle-group" value=" "><br>
+  <label for="cardio">Cardio:</label><br>
+  <input type="text" id="cardio" name="cardio" value=" "><br><br>
+  <input type="submit" value="Create Workout!">
+</form> 
+<div id = "workout-container">
+    <ul>
+        
+    </ul>
+</div>
 </body>
 </html>
