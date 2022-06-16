@@ -15,3 +15,6 @@ form{
    padding-top: 20px;
    
 }
+select, option {
+    width: 100px;
+}
