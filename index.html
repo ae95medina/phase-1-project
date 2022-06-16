@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="javascripts/index.js"></script>
-    <link rel="stylesheet" type="text/css" href="stylesheets/style.css"/>
+    <link rel="stylesheet" type="text/css" href="stylesheets/styles.css"/>
     <title>Phase 1 Project</title>
 </head>
 <body>
@@ -17,14 +17,24 @@
 
 <form action="/action_page.php">
   <label for="muscle-group">Muscle Group:</label><br>
-  <input type="text" id="muscle-group" name="muscle-group" value=" "><br>
-  <label for="cardio">Cardio:</label><br>
-  <input type="text" id="cardio" name="cardio" value=" "><br><br>
+  <select id="muscle-group" name="muscle-group">
+      <option value ="Chest">Chest</option>
+      <option value ="Bicep">Biceps</option>
+      <option value ="Triceps">Triceps</option>
+      <option value ="Back">Back</option>
+      <option value ="Legs">Legs</option>
+      <option value ="Shoulders">Shoulders</option>
+     </select>
+     <label for="cardio">Cardio</label><br>
+     <select id="cardio" name="cardio">
+         <option value = "Yes">Yes</option>
+         <option value = "No">No</option>
+  <!-- <input type="text" id="cardio" name="cardio" value=" "><br><br> -->
   <input type="submit" value="Create Workout!">
 </form> 
 <div id = "workout-container">
     <ul>
-        
+
     </ul>
 </div>
 </body>
