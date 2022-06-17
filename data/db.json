@@ -27,7 +27,7 @@
         {
         "id": 5,
         "target": "Triceps",
-        "exercise": "Triceps Extension",
+        "exercise": "Tricep Extension",
         "image": "https://weighttraining.guide/wp-content/uploads/2018/02/Incline-dumbbell-triceps-extension-resized.png"
         },
         {
@@ -64,13 +64,13 @@
         "id": 11,
         "target": "Biceps",
         "exercise": "Preacher Curl",
-        "image": "https://weighttraining.guide/wp-content/uploads/2017/03/Dumbbell-Preacher-Reverse-C-resized.png"
+        "image": "https://i.pinimg.com/originals/45/30/7a/45307aa7bb4ae80062959adb6eb693b2.png"
         },
         {
         "id": 12,
         "muscle group": "Biceps",
         "exercise": "Overhand Cable Pull",
-        "image": "https://fitnessvolt.com/wp-content/uploads/2019/04/overhead-cable-c.jpg"
+        "image": "https://fitnessvolt.com/wp-content/uploads/2019/04/overhead-cable-curl.jpg"
         },
         {
         "id": 13,
@@ -95,6 +95,67 @@
         "target": "Back",
         "exercise": "Barbell Row",
         "image": "https://fitnessvolt.com/wp-content/uploads/2018/04/bent-over-barbell-row-750x474.jpg"
-        }
+        },
+        {
+        "id": 17,
+        "target": "Abdominal",
+        "exercise": "Leg Raise",
+        "image": "https://www.hevyapp.com/wp-content/uploads/leg-raises.png",
+        },
+        {
+        "id": 18,
+       "target": "Abdominal",
+       "exercise": "Plank",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeb4jDlM9yJjYQXKfrNMogD1FX2qDBXIyp2A&usqp=CAU"
+        },
+        {
+        "id": 19,
+        "target": "Legs",
+        "exercise": "Romanian Deadlift",
+        "image": "https://cdn-0.weighttraining.guide/wp-content/uploads/2016/10/Barbell-Romanian-Deadlift.png?ezimgfmt=ng%3Awebp%2Fngcb2"
+
+        },
+        {
+        "id": 20,
+        "target": "Legs",
+        "exercise": "Leg Extension",
+        "image":"https://fitnessvolt.com/wp-content/uploads/2019/04/leg-extension.jpg"
+        },
+        {
+        "id": 21,
+        "target": "Legs",
+        "exercise": "Calf Raises",
+        "image": "https://cdn-0.weighttraining.guide/wp-content/uploads/2016/10/Lever-Standing-Calf-Raise-resized.png?ezimgfmt=ng%3Awebp%2Fngcb2"
+
+        },
+        {
+        "id": 22,
+        "target": "Legs",
+        "exercise": "Reverse Lunge",
+        "image":"https://fitnessvolt.com/wp-content/uploads/2019/04/dumbbell-lunge.jpg"
+        },
+        {
+        "id": 23,
+        "target": "Shoulders",
+        "exercise": "Military Press",
+        "image": "https://fitnessvolt.com/wp-content/uploads/2019/12/military-press.jpg"
+        },
+       { "id": 24,
+        "target": "Shoulders",
+        "exercise": "Lateral Raise",
+        "image": "https://cdn-0.weighttraining.guide/wp-content/uploads/2016/12/Seated-Dumbbell-Lateral-Raise-resized.png?ezimgfmt=ng%3Awebp%2Fngcb2"
+       },
+       {
+        "id": 25,
+        "target": "Shoulders",
+        "exercise": "Face Pull",
+        "image": "https://cdn-0.weighttraining.guide/wp-content/uploads/2016/10/Face-pull-resized.png?ezimgfmt=ng%3Awebp%2Fngcb2"
+       },
+       {
+        "id": 26,
+        "target": "Shoulders",
+        "exercise": "Around The World",
+        "image": "https://cdn.shopify.com/s/files/1/1633/7705/files/best_exercises_for_middle_delts_480x480.jpg?v=1630229491"
+       }
     ]
 }
