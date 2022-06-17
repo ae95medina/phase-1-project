@@ -9,7 +9,9 @@ h2 {
     font-size: 22px;
     font-family: Comi;
 }
-
+h3{
+    
+}
 form{
    width: 100px;
    padding-top: 20px;
@@ -26,3 +28,29 @@ html {
      -o-background-size: cover;
      background-size: cover;
       }
+.card {
+        text-align: center;
+        border: grey solid 1px;
+        padding: 1rem;
+        width: 20rem;
+        height: 25rem;
+        display: inline-grid;
+        margin: 1rem 2rem;
+        box-shadow: 3px 4px #333
+}
+.container {
+    padding: 1rem;
+    width: stretch;
+    height: auto;
+    display: none;
+    background: #515DA2;
+    opacity: .8;
+  }
+  #workout_collection {
+      margin: 2rem;
+  }
+  .exercise-image{
+    justify-self: center;
+    height: 12rem;
+    width: auto;
+  }
