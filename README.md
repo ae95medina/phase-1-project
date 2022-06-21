@@ -8,8 +8,9 @@ Welcome to the Workout Planner! The Workout Planner is an application made for b
 
 ### Features
  - Muscle-specific workout formula
- - Several cardio options 
+ - Many combinations to choose from
  - Images explaining the "how-to" of the workout
+ - Select your preferred workouts to set them apart from the others
 
 ### How to Use
-You will have a choice on what muscle group you would like to work out for the day. Simply select your preferred muscle group based on the first input and if you would like to include a cardio session post workout. After creating your workout, your plan will then appear below.
+Choose your desired target muscle group; you can select one group, or combine with another. After selecting the input(s), your workout cards will then filter and appear below.
