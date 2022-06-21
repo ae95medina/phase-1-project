@@ -43,4 +43,11 @@ document.addEventListener("change", event =>{
            })    
         }
         })
+        document.addEventListener("click", event => {
+            if (event.target.matches("div")) {
+                console.log(event)
+                event.target.style.color = "red"
+            }
+        })
+        
      
