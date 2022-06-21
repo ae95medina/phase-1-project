@@ -28,14 +28,19 @@ function showWorkouts(workout){
 
 document.addEventListener("change", event =>{
     if(event.target.matches("#primary")){
-        console.log(event.target.value)
         const filterWorkouts = workouts.filter(workout => workout.target === event.target.value)
-       
         document.getElementById("workout_collection").innerHTML= "";
-       
         filterWorkouts.forEach(workout=> {
         showWorkouts(workout)
        }) 
     }
     })
-    
+    document.addEventListener("change", event =>{
+        if(event.target.matches("#secondary")){
+          const filterWorkouts = workouts.filter(workout => workout.target === event.target.value)
+           filterWorkouts.forEach(workout=> {
+            showWorkouts(workout)
+           })    
+        }
+        })
+     
