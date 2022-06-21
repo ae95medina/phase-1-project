@@ -14,4 +14,6 @@ Welcome to the Workout Planner! The Workout Planner is an application made for b
 
 ### How to Use
 Choose your desired target muscle group; you can select one group, or combine with another. After selecting the input(s), your workout cards will then filter and appear below.
-![How-To](Project.gif) / ! [](name-of-gif-file. gif)
+
+
+![How-To](Project.gif)
