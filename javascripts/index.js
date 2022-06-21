@@ -49,5 +49,15 @@ document.addEventListener("change", event =>{
                 event.target.style.color = "red"
             }
         })
+     document.addEventListener("mouseover", event => {
+         if (event.target.matches("h2")) {
+         console.log(event)
+            event.target.style.color= "red";
+         }
+            setTimeout(function() {
+              event.target.style.color = "";
+            }, 500);
+          }, false);
+        
         
      
