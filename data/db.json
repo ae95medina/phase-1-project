@@ -68,7 +68,7 @@
         },
         {
         "id": 12,
-        "muscle group": "Biceps",
+        "target": "Biceps",
         "exercise": "Overhand Cable Pull",
         "image": "https://fitnessvolt.com/wp-content/uploads/2019/04/overhead-cable-curl.jpg"
         },

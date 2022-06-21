@@ -2,6 +2,7 @@ h1, h2, h3 {
     text-align: center;
     font-family:'Lucida Sans';
 }
+
 h1{
     font-size: 40px;
 }
@@ -22,7 +23,6 @@ select, option {
 }
 html { 
       background: url(https://i.pinimg.com/originals/af/fe/50/affe50f1a2322e8ab69f9410c7321aee.jpg) no-repeat center center fixed; 
-      /*background: url(https://www.kindpng.com/picc/m/120-1203811_background-fitness-png-transparent-png.png) no-repeat center center fixed;  */
      -webkit-background-size: cover;
      -moz-background-size: cover;
      -o-background-size: cover;
@@ -30,13 +30,15 @@ html {
       }
 .card {
         text-align: center;
-        border: grey solid 1px;
+        border: grey solid 1.6px;
         padding: 1rem;
-        width: 21rem;
+        width: 21.5rem;
         height: 25rem;
         display: inline-grid;
         margin: 1rem 2rem;
-        box-shadow: 3px 4px #333
+        box-shadow: 3px 4px #333;
+        background: white
+        
 }
 .container {
     padding: 1rem;
@@ -54,3 +56,15 @@ html {
     height: 12rem;
     width: auto;
   }
+  form {
+      font: bolder;
+  }
+input{
+    margin-top: 10px;
+}
+#muscle-group, #muscle-group2{
+   font: bold
+}
+table {
+    width: 400px
+}
